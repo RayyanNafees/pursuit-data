@@ -1,9 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "students":[
+    {"Timestamp":"",
+    "Email Address":"",
+    "Name":"",
+    "WhatsApp Number":"",
+    "is AMU student ?":"",
+    "Enrollment Number":"",
+    "Resident Hall":"",
+    "Address":"",
+    "Playing as ":"",
+    "WhatsApp Numbers of participants (if team)":"",
+    "Choose Game Mode":"",
+    "Choose Game":"",
+    "Payment":"",
+    "AI verify Payment":"",
+    "AI verify name %" :""}
+  ]
 }

@@ -1,19 +1,19 @@
 {
-  "students":[
-    {"Timestamp":"",
-    "Email Address":"",
-    "Name":"",
-    "WhatsApp Number":"",
-    "is AMU student ?":"",
-    "Enrollment Number":"",
-    "Resident Hall":"",
-    "Address":"",
-    "Playing as ":"",
-    "WhatsApp Numbers of participants (if team)":"",
-    "Choose Game Mode":"",
-    "Choose Game":"",
-    "Payment":"",
-    "AI verify Payment":"",
-    "AI verify name %" :""}
+  "students"":[
+    {
+     "timestamp": "",
+  "email":"",
+  "name":"",
+  "wapp":"",
+  "internal":"",
+  "enroll": '',
+  "hall": '',
+  "address":"",
+  "team":"",
+  "team_wapp":"",
+  "mode":"",
+  "game":"",
+  "pay_img":""
+    }
   ]
 }
